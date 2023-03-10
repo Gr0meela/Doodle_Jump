@@ -1,0 +1,2192 @@
+fileFormatVersion: 2
+guid: 691511e92c4ca834d8a1fa4835868e6f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Default Platform
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 496
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc11b2f79d262a48960e2ad1f7e5f90
+      internalID: -1281763058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Flying Monster 1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 421
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdafcae4933e854cba9910527dd2c5d
+      internalID: 1073682264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Flying Monster 1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 466
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eded27b23361a24b89abee186b6eee4
+      internalID: 1932972196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Flying Monster 2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 467
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c12d499d7c53ff4aac8591785e3622d
+      internalID: -417927285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Flying Monster 3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 466
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77f0653ca0abb949b55512e9be4dfa6
+      internalID: 518986118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Flying Monster 4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 466
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31058a147b68e884a99a3e3d5f5dccd4
+      internalID: -338322073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Ud-Right
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 466
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a337c64c236da3945acbe5612d9be36d
+      internalID: 1643688563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat Monster 1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 477
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a702ccb3f7849ba45a69de2bc1eeac23
+      internalID: -607540160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Horizontal Platform
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 478
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a9c93ada30e06498a3b451afc9a872
+      internalID: -2071702319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Vertical Platform
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb51fd99c1b6a24bae102ea2dd6a1cd
+      internalID: 945931938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Flying Monster 5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 420
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7197f114c1c344a7ce6e2380e5145
+      internalID: -298704647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hole
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 396
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ac607364a139543b20e86715b49204
+      internalID: -1984764664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Up
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 437
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932cd9063c4969540acfa585cee93d6b
+      internalID: 1480501402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Line
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 433
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e010e426000ce43b5400e27c663733
+      internalID: 118904343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flat Monster 2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 443
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34afd64aa4e872748864572b2edbe9f7
+      internalID: -1411983953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disappearing Platform
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56633530c2ff4d24e9224c0f10dd8660
+      internalID: 116410186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trampouline 2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 445
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f4f540f13eb3f4786653d1be319254
+      internalID: 1027098820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destrucltable Platform 1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 424
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e40d847399581f40b9c1940cdcdec16
+      internalID: -214969293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Left
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 422
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ecf2add62333458228080a8344426
+      internalID: 1602668097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Down
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 394
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b8153c044065049940ceeb6c6b8691
+      internalID: -303190239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avoid
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 421
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547b62c4b0f7ea141ad73ec13372b964
+      internalID: 148749428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFO with Beam
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 308
+        width: 83
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751bf3f7ec9b4184dae4228b9bc767d1
+      internalID: -648404507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fat Monster
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 387
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134226c1bb63dd74d8f897bc36eb27d6
+      internalID: 886867140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destrucltable Platform 2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 400
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e3e02fe1bc4cc46ad6f0d667b66315
+      internalID: 1078380646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Flying Monster 2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 327
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862303e689b1a1c44bbf59aba8415dd0
+      internalID: 36075614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trampouline 3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 400
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c27d1f29f77840b2ef27ea74973dd
+      internalID: -1349616370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trampouline 1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 400
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7fe5ca9f7d48f408bedb8e24e08a29
+      internalID: 1956492599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring 1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 401
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acd87ae54144ed4aaa36aa4d16aee46
+      internalID: 921186326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destrucltable Platform 3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 367
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3995ffbe29d5848b27893062cc6c9b
+      internalID: 2014152300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilt to move
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 367
+        width: 237
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395d64897574c704faa5317d3253e9aa
+      internalID: 1709333472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring 2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 369
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a430185fafe764e9f9f8bf657a5056
+      internalID: 1687238704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Random Platform
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 368
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738103e8c42874447880d31821244934
+      internalID: -1666986562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destrucltable Platform 4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06eeb6f3ba485847b4387bdd7c85aba
+      internalID: -2004982727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tousch the screen to shoot
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 344
+        width: 255
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe82afbf401f0b142b6fec83ef6e8690
+      internalID: -1008219445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invisible Platform 2
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 350
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4203d0b336a4c49abfe8ed7f350d1f
+      internalID: -1352049901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump on these
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 309
+        width: 166
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd107f33920199646a4af33d000fb3ad
+      internalID: -809766472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 293
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db9f4fe444b22a4da65cd7818e30da8
+      internalID: -139075955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invisible Platform 1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 332
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a519d07d7430644685ddc09713e61ea
+      internalID: -2092277313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exploading Platform 1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c988a2b0a2cf94d80a5560074a9d12
+      internalID: -2134518562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Monster Right
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 275
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4079c86bfa301499c789c3f13d1158
+      internalID: -890595938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Monster Left
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 275
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6405dfe919df54298e79019ad89930
+      internalID: -1486002029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exploading Platform 2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bda10c4ec52791468e6fac74d9f06a6
+      internalID: -1835358784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Monster 3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 249
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d58fcaae8b094e83d104fab29d2a6
+      internalID: 1675657265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Number 1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 291
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721110756f3a34d49b20a62d39da01e3
+      internalID: -941415613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Number 2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 291
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb210e26ff8d1d4fb0f56846a2069fd
+      internalID: 2090873804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Number 3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 291
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14240b8dfca4984fa5a802a2019f6d8
+      internalID: -1563017378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Number 4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 291
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a052bec01461e42a11ffb7698ed3b0
+      internalID: 1187226833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Number 5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 291
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73445c5718a7a2b42870c0513e39187f
+      internalID: 1122043683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumper
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 286
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc02bcc6cbb30804ba4b2ff8e6ca5ff0
+      internalID: 84515234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UFO
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 270
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5690bd591e47060448c61c5b4570551c
+      internalID: -1958416224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exploading Platform 3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 277
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf62ae43c6673f4eb54dd5890908410
+      internalID: 1486537408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Number 6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 273
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302912843a643b1478031b32c5864f58
+      internalID: 2010403787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Number 7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 273
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36741f57a1de3be47a95fc316e69a352
+      internalID: -526478432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Number 8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 273
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf2298ad2414a4890a02b873728d1f
+      internalID: -715970357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Number 9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 273
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b1e7af87a91a84a87d0a02503a6211
+      internalID: -1825376685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray red
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 285
+        width: 54
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823b430fa7210b54fb18239bbf3d3851
+      internalID: -1913510774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Blue
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 279
+        width: 54
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c98324c152eff458f521bec37a2cb6
+      internalID: -1798968353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exploading Platform 4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9e876dc2bdd9f4ead7599af48ac793
+      internalID: -1137681657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Monster 2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 219
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92122713879b6ec4f9502b863f7e3cae
+      internalID: 1982481645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Number 0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465c4f25def00dc45acf316f714ae9ae
+      internalID: -1717230697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat 1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 257
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66f6eee658ce18459be35acec8e442a
+      internalID: 1164510400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exploading Platform 5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7812d8a90d5fa3e4e9fa4e9626b49e32
+      internalID: 2071528511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Monster
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 211
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4874cffccc1dd2e4c89c7ec6f101a2db
+      internalID: 1482781339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jetpack
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 210
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab39492ad6903d4c8164859419a47ef
+      internalID: 1319703602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worm
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 172
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d04f46647b36d4d8dbf217067d41f2
+      internalID: -1460021875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Up-Left
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 169
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5673d3f5d9557a4daf92c2a2159d343
+      internalID: -12506191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exploading Platform 6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 221
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facaf10fb96bc9b40be46e48165e9e7a
+      internalID: -842331031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat 2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 211
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f150f4da21507114e85339fb5c6e3225
+      internalID: -1065356702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exploading Platform 7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8882910ed25ee45b00855a5839169f
+      internalID: -1953926546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Monster 5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01889d9a29ae23342955bdf56e058f67
+      internalID: 1370783694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 171
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1e7e29559d54041ae1111a3f4eaebb
+      internalID: 60824784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exploading Platform 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75a3bb6ebfbb19499002eef59098c95
+      internalID: 141539749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movable Platform 1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 170
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238dec3afc4fb4a408c5170d9a34dacd
+      internalID: 735162276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movable Platform 4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 108
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e06d3718e7e99943a9054a95c4a4317
+      internalID: 1953094538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caterpillar 1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 89
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f834bf6ba5de47f4fad6ae6c205bb635
+      internalID: -2037991200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finish
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1
+        width: 320
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a4e3a4fdfc65446bf8944ce0beefcd
+      internalID: 1203845939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Don't shoot
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 144
+        width: 177
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc67b58b2c46ce499b2666095f7fad9
+      internalID: 944349559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Monster 1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1704264677df5ea4e8bad0d88bc1e05c
+      internalID: -1909810076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Monster 4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 94
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f850f3636a25c041a0591890b3d30cd
+      internalID: 1083717832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump on monsters
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 109
+        width: 177
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b769d6b66e7234e8e1e8d03884502c
+      internalID: -197762799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Flying Monster 5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582f60053dd73224eac5dbf592625875
+      internalID: -309910307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Flying Monster 4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8941e1c22ab8e624a8c035a15918b1b0
+      internalID: 1454063469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: You cam drug platform
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 210
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb09c3ee506d7140ba3958a686cd2c2
+      internalID: 1686420959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caterpillar 2
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0d9aaf3bff3d3429f5a49c6cd453dc
+      internalID: 1610457827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Flying Monster 3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b698cde7770bbc409fb6737d5565084
+      internalID: 1366973787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movable Platform 2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 57
+        width: 93
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069c03c6fb9e4094b89f481e4fd82085
+      internalID: 853974284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movable Platform 3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 13
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5438ffed083a6479621a20459d2bcc
+      internalID: 475338909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Destrucltable Platform 1: -214969293
+      Moving Horizontal Platform: -2071702319
+      game-tiles_210: -431643002
+      game-tiles_56: 1468586877
+      game-tiles_189: 1886980738
+      game-tiles_161: 169491523
+      Flat Monster 1: -607540160
+      Little Flying Monster 3: 518986118
+      Exploading Platform 7: -1953926546
+      game-tiles_187: 2033632940
+      Little Flying Monster 2: -417927285
+      Hat 2: -1065356702
+      game-tiles_153: 252272838
+      game-tiles_142: 1016098600
+      Number 6: 2010403787
+      game-tiles_207: -1534045004
+      game-tiles_34: -1633218016
+      Arrow Ud-Right: 1643688563
+      Don't shoot: 944349559
+      Little Flying Monster 5: -298704647
+      Disappearing Platform: 116410186
+      game-tiles_148: 926753048
+      Ray Blue: -1798968353
+      Ray red: -1913510774
+      game-tiles_77: 1294274854
+      Default Platform: -1281763058
+      Big Monster 4: 1083717832
+      game-tiles_159: -1479850037
+      game-tiles_57: -1677405993
+      Destrucltable Platform 3: 2014152300
+      game-tiles_185: -496024995
+      Big Monster 1: -1909810076
+      game-tiles_130: -1746704057
+      game-tiles_149: -1978701647
+      game-tiles_163: -329903942
+      Number 0: -1717230697
+      game-tiles_201: -2017831867
+      Big Flying Monster 3: 1366973787
+      game-tiles_131: -1865655678
+      Line: 118904343
+      game-tiles_172: 1743125994
+      game-tiles_186: 1432474491
+      Jetpack: 1319703602
+      game-tiles_182: -460364829
+      game-tiles_43: -1878359796
+      game-tiles_132: 1194645060
+      Fat Monster: 886867140
+      game-tiles_139: 1294066324
+      game-tiles_69: -1019044046
+      game-tiles_120: -1353452244
+      Big Flying Monster 2: 36075614
+      Avoid: 1709333472
+      Number 8: -715970357
+      game-tiles_40: -375620471
+      game-tiles_62: 1269313140
+      Worm: -1460021875
+      Arrow Up: 1480501402
+      game-tiles_63: 128400596
+      game-tiles_160: -719229747
+      Movable Platform 2: 853974284
+      game-tiles_54: 2061494364
+      game-tiles_208: -1797340077
+      game-tiles_196: 1605480715
+      game-tiles_49: -2002438719
+      game-tiles_52: 154799971
+      game-tiles_22: 1283602695
+      game-tiles_143: -1659488916
+      game-tiles_44: 146584812
+      Number 2: 2090873804
+      game-tiles_137: 369846784
+      game-tiles_37: -952744575
+      Spring 2: 1687238704
+      game-tiles_71: -1720036729
+      game-tiles_180: -1549703386
+      game-tiles_198: 1001582992
+      UFO with Beam: -648404507
+      game-tiles_176: 1656934105
+      game-tiles_74: 769618136
+      game-tiles_53: 1994544810
+      game-tiles_60: 477893569
+      game-tiles_150: -1451581597
+      Exploading Platform 5: 2071528511
+      game-tiles_179: -784906506
+      game-tiles_188: 201149134
+      game-tiles_212: -461491815
+      Flat Monster 2: -1411983953
+      Number 5: 1122043683
+      game-tiles_65: -1075933521
+      Exploading Platform 4: -1137681657
+      game-tiles_124: -346864789
+      game-tiles_45: 1339977980
+      game-tiles_215: -812744714
+      Destrucltable Platform 2: -214969293
+      game-tiles_200: 1794249075
+      You cam drug platform: 1686420959
+      game-tiles_145: -336013201
+      game-tiles_171: 1674134718
+      game-tiles_88: -627716822
+      Exploading Platform 2: -1835358784
+      game-tiles_156: 531260526
+      game-tiles_133: 1132025217
+      Exploading Platform 1: -2134518562
+      game-tiles_214: 378827316
+      game-tiles_85: 1431163739
+      game-tiles_194: 1330196935
+      game-tiles_146: 1704865616
+      Number 4: 1187226833
+      Big Flying Monster 4: 1454063469
+      Number 3: -1563017378
+      game-tiles_55: 1350124811
+      game-tiles_168: 1965856481
+      Number 9: -1825376685
+      game-tiles_89: 135049038
+      game-tiles_33: -1261852531
+      Movable Platform 4: 1953094538
+      game-tiles_125: 1833488539
+      Random Platform: -1666986562
+      game-tiles_41: 1621382366
+      game-tiles_157: -1505970136
+      game-tiles_169: 1037880019
+      game-tiles_19: -1403705123
+      game-tiles_138: 624021501
+      game-tiles_181: -123626867
+      game-tiles_86: 1941514967
+      game-tiles_166: -1651519499
+      Big Flying Monster 5: -309910307
+      game-tiles_174: 903918485
+      game-tiles_192: 1754256756
+      Exploading Platform 8: 141539749
+      Hole: -1984764664
+      game-tiles_202: -1364765663
+      game-tiles_36: -626620412
+      game-tiles_203: 2139426936
+      Big Monster 3: 1675657265
+      game-tiles_204: -524088771
+      Movable Platform 3: 475338909
+      game-tiles_205: -2146946252
+      game-tiles_39: -1104083252
+      Exploading Platform 6: -842331031
+      game-tiles_184: 970100321
+      game-tiles_151: 118454501
+      Trampouline 3: -1349616370
+      game-tiles_38: 2030912613
+      Caterpillar 2: 1610457827
+      game-tiles_155: 1018956871
+      Trampouline 2: 1027098820
+      Arrow Down: -303190239
+      game-tiles_90: -2145072411
+      game-tiles_72: -830399628
+      game-tiles_154: -1593972081
+      game-tiles_178: 1051752571
+      game-tiles_84: 698792119
+      game-tiles_183: -191488992
+      Little Flying Monster 4: -338322073
+      Moving Vertical Platform: 945931938
+      Little Flying Monster 1: 1932972196
+      Arrow Up-Left: -12506191
+      Tiny Monster: 1482781339
+      Jumper: 84515234
+      Spider: -139075955
+      game-tiles_162: 854645760
+      game-tiles_190: 1046921389
+      game-tiles_135: 2080347361
+      Spring 1: 921186326
+      game-tiles_134: 551893665
+      Hat 1: 1164510400
+      game-tiles_209: 832363904
+      Shield: 60824784
+      Invisible Platform 2: -1352049901
+      game-tiles_61: -927299550
+      Trampouline 1: 1956492599
+      game-tiles_158: -1152981959
+      game-tiles_76: 487810920
+      game-tiles_70: 1431644122
+      game-tiles_199: 68478872
+      game-tiles_66: 1018655025
+      game-tiles_87: -1326917473
+      Little Monster Right: -890595938
+      game-tiles_46: 350107910
+      Tilt to move: -1008219445
+      game-tiles_64: -483661956
+      Arrow Left: 1602668097
+      game-tiles_197: -857229974
+      game-tiles_191: -543597419
+      UFO: -1958416224
+      Big Monster 5: 1370783694
+      Big Monster 2: 1982481645
+      Number 7: -526478432
+      Tousch the screen to shoot: -1008219445
+      game-tiles_170: -1075596078
+      Finish: 1203845939
+      game-tiles_195: -195116853
+      Little Monster Left: -1486002029
+      Jump on monsters: -197762799
+      game-tiles_144: -1278003316
+      game-tiles_59: -1111715923
+      game-tiles_75: -1973498927
+      game-tiles_136: 698254747
+      game-tiles_167: 1901184355
+      Jump on these: -809766472
+      game-tiles_42: 1056707908
+      game-tiles_67: -737248935
+      Invisible Platform 1: -2092277313
+      game-tiles_175: 1767608496
+      Big Flying Monster 1: 1073682264
+      game-tiles_206: 2141306967
+      Exploading Platform 3: 1486537408
+      Caterpillar 1: -2037991200
+      game-tiles_193: -1974497979
+      Movable Platform 1: 735162276
+      game-tiles_211: -869948936
+      game-tiles_213: 806653122
+      game-tiles_35: 593127652
+      game-tiles_58: 1770890286
+      game-tiles_152: -188583671
+      game-tiles_68: 868202738
+      Number 1: -941415613
+      Destrucltable Platform 4: -2004982727
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
