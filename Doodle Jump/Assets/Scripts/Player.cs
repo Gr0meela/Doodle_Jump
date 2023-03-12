@@ -8,15 +8,17 @@ public class Player : MonoBehaviour
     private SpriteRenderer _renderer;
     [SerializeField] private Animator _animator;
     [SerializeField] private float _speed = 5f;
+    [SerializeField] private float _startForce = 5f;
+    //Поле для тестов на ПК
     [Range(-1f, 1f)] public float horizontal = 0f;
+    private bool _isRotating = true;
     void Start()
     {
         _playerRigidbody = GetComponent<Rigidbody2D>();
         _renderer = GetComponentInChildren<SpriteRenderer>();
         _animator = GetComponent<Animator>();
+        _playerRigidbody.velocity = new Vector2(_playerRigidbody.velocity.x, _startForce);
     }
-
-    // Update is called once per frame
     void FixedUpdate()
     {
         MovePlayer();
@@ -24,15 +26,9 @@ public class Player : MonoBehaviour
     void MovePlayer()
     {
         //float horizontal = Input.acceleration.x;
-        if(horizontal < 0)
-        {
-            _renderer.flipX = false;
-        }
-        else if (horizontal > 0)
-        {
-            _renderer.flipX = true;
-        }
         _playerRigidbody.velocity = new Vector2(horizontal * _speed, _playerRigidbody.velocity.y);
+        if (_isRotating)
+            Rotate();
     }
     public void Jump(float jumpPower)
     {
@@ -41,5 +37,20 @@ public class Player : MonoBehaviour
     public void DoaFlip()
     {
         _animator.SetTrigger("IsFlip");
+    }
+    private void Rotate()
+    {
+        if (horizontal < 0)
+        {
+            _renderer.flipX = false;
+        }
+        else if (horizontal > 0)
+        {
+            _renderer.flipX = true;
+        }
+    }
+    public void SetRotation()
+    {
+        _isRotating = !_isRotating;
     }
 }

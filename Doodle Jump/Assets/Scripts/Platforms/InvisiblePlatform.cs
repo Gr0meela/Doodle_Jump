@@ -8,6 +8,7 @@ public class InvisiblePlatform : DefaultPlatform
     private Player _player;
     public override void Start()
     {
+        base.Start();
         _animator = GetComponent<Animator>();
         _player = FindObjectOfType<Player>();
     }
