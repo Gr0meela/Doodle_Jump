@@ -1,17 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
+    public long Score = 0;
+    public long HighScore;
     private Rigidbody2D _playerRigidbody;
     private SpriteRenderer _renderer;
+    private bool _isRotating = true;
     [SerializeField] private Animator _animator;
     [SerializeField] private float _speed = 5f;
     [SerializeField] private float _startForce = 5f;
     //Поле для тестов на ПК
     [Range(-1f, 1f)] public float horizontal = 0f;
-    private bool _isRotating = true;
+    //private float horizontal = 0f;
     void Start()
     {
         _playerRigidbody = GetComponent<Rigidbody2D>();
@@ -22,10 +26,14 @@ public class Player : MonoBehaviour
     void FixedUpdate()
     {
         MovePlayer();
+        if(Score > HighScore)
+        {
+            HighScore = Score;
+        }
     }
     void MovePlayer()
     {
-        //float horizontal = Input.acceleration.x;
+        //horizontal = Input.acceleration.x;
         _playerRigidbody.velocity = new Vector2(horizontal * _speed, _playerRigidbody.velocity.y);
         if (_isRotating)
             Rotate();
